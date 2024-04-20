@@ -1,13 +1,16 @@
 
 O
-java:S1611"2Remove the parentheses around the "auth" parameter(ò‚öí8¼¨–ûé1
-]	java:S125&"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8Í º–ê1
-]	java:S125-"<This block of commented-out lines of code should be removed.(Ü…ÇÖúÿÿÿÿ8íæüé1
+java:S1611"2Remove the parentheses around the "auth" parameter(ò‚öí8”ÅÕï1
+]	java:S125("<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8–ÅÕï1
+]	java:S125/"<This block of commented-out lines of code should be removed.(Ü…ÇÖúÿÿÿÿ8–ÅÕï1
 O
-java:S16111"2Remove the parentheses around the "auth" parameter(ŒÄæÑ8ó‚Ãüé1
+java:S16113"2Remove the parentheses around the "auth" parameter(ŒÄæÑ8–ÅÕï1
 O
-java:S16117"2Remove the parentheses around the "auth" parameter(ŒÄæÑ8¢†½üé1
+java:S16119"2Remove the parentheses around the "auth" parameter(ŒÄæÑ8—ÅÕï1
 s
-java:S1128"VRemove this unused import 'org.springframework.beans.factory.annotation.Configurable'.(ïÜğş8Í¨–ûé1
+java:S1128"VRemove this unused import 'org.springframework.beans.factory.annotation.Configurable'.(ïÜğş8—ÅÕï1
 {
-java:S1128"_Remove this unused import 'org.springframework.security.config.annotation.web.OAuth2ClientDsl'.(‹É“8Í¨–ûé1
+java:S1128"_Remove this unused import 'org.springframework.security.config.annotation.web.OAuth2ClientDsl'.(‹É“8—ÅÕï1
+
+java:S1128
+"rRemove this unused import 'org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer'.(Ç¼Î8ÍÅÕï1
