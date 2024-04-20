@@ -39,10 +39,11 @@ public class ProjectSecurityConfig {
 		return NoOpPasswordEncoder.getInstance();
 	}
 
-	@Bean
-	public UserDetailsService userDetailsService(DataSource dataSource) {
-		return new JdbcUserDetailsManager(dataSource);
-	}
+	// EazyBackUserDetails에 이미 UserDetailsService를 사용하므로 주석처리 안하면 충돌 발생
+	// @Bean
+	// public UserDetailsService userDetailsService(DataSource dataSource) {
+	// 	return new JdbcUserDetailsManager(dataSource);
+	// }
 
 	// @Bean
 	// public InMemoryUserDetailsManager userDetailsManager() {
